@@ -1,8 +1,13 @@
-[![MasterHead](https://www.canva.com/design/DAF0scsQ6lE/view)]
-<h1 align="center">Hi 👋, I'm Keona Abad</h1>
-<h3 align="center">I'm a Student at Oregon State University studying computer science experienced in both Front-End and Back-End!</h3>
+![MasterHead](https://www.canva.com/design/DAF0scsQ6lE/view)
 
-<img align="right" alt="Coding GIF" width="400" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp">
+<div style="position: relative; width: 100%; height: 0; padding-top: 40.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;"
+    src="https://www.canva.com/design/DAF0scsQ6lE/embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+<a href="https://www.canva.com/design/DAF0scsQ6lE/view?utm_content=DAF0scsQ6lE&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Black Neon Modern Gaming Twitch Banner</a> by Keona Abad (BossLord)
+
 
 
 
