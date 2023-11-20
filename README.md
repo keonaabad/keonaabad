@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **keeonaabad2004@gmail.com**
 
-- 📄 Know about my experiences [Internship Resume.pdf](Internship Resume.pdf)
+- 📄 Know about my experiences [Internship Resume.pdf](file:///Users/keonaabad/Desktop/Internship%20Resume.pdf)
 
 - ⚡ Fun fact **My new favorite snack is dried elk**
 
