@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **C++, Assembly**
 
-- 👯 I’m looking to collaborate on **A web game project or hackathon projects**
+- 👯 I’m looking to collaborate on **a web game project or hackathon projects**
 
 - 🤝 I’m looking for help with **finding a summer 2024 internship**
 
 - 👨‍💻 All of my projects are available at [https://keonaabad.github.io/portfolio/](https://keonaabad.github.io/portfolio/)
 
-- 💬 Ask me about **Why I love both design and development**
+- 💬 Ask me about **W=why I love both design and development**
 
 - 📫 How to reach me **keeonaabad2004@gmail.com**
 
-- ⚡ Fun fact **My new favorite snack is dried elk**
+- ⚡ Fun fact **my new favorite snack is dried elk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
