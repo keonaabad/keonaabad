@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keona Abad</h1>
-<h3 align="center">I am a Student at Oregon State University studying computer science experienced in both Front-End and Back-End!</h3>
+<h3 align="center">I'm a Student at Oregon State University studying computer science experienced in both Front-End and Back-End!</h3>
 
 <img align="right" alt="Coding GIF" width="400" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp">
 
