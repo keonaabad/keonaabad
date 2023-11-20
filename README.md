@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Assembly**
 
-- 👯 I’m looking to collaborate on **A web game project or hackathon projects**
+- 👯 I’m looking to collaborate on **a web game project or hackathon projects**
 
 - 🤝 I’m looking for help with **finding a summer 2024 internship**
 
