@@ -1,4 +1,4 @@
-<img align="center" "width= "600" src="https://pfps.gg/assets/banners/8824-stay-weird.gif">
+<img align="center" width="600" src="https://pfps.gg/assets/banners/8824-stay-weird.gif">
 <h1 align="center">Hi 👋, I'm Keona Abad</h1>
 <h3 align="center">I’m a Student at Oregon State University studying computer science experienced in both Front-End and Back-End!</h3>
 
