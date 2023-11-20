@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://keonaabad.github.io/portfolio/](https://keonaabad.github.io/portfolio/)
 
-- 💬 Ask me about **W=why I love both design and development**
+- 💬 Ask me about **why I love both design and development**
 
 - 📫 How to reach me **keeonaabad2004@gmail.com**
 
