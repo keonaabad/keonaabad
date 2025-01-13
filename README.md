@@ -5,21 +5,11 @@
 
 
 
-- 🔭 I’m currently working on [Project Portfolio](https://keonaabad.github.io/portfolio/)
+- 🔭 I’m currently working on **finishing my upper division courses**
 
-- 🌱 I’m currently learning **C++, Assembly**
-
-- 👯 I’m looking to collaborate on **a web game project or hackathon projects**
-
-- 🤝 I’m looking for help with **finding a summer 2024 internship**
-
-- 👨‍💻 All of my projects are available at [https://keonaabad.github.io/portfolio/](https://keonaabad.github.io/portfolio/)
-
-- 💬 Ask me about **why I love both design and development**
+- 🌱 I’m currently learning **Swift and XCode**
 
 - 📫 How to reach me **keeonaabad2004@gmail.com**
-
-- ⚡ Fun fact **My new favorite snack is dried elk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
