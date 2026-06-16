@@ -1,64 +1,17 @@
-<h1 align="center">Hi 👋, I'm Keona Abad</h1>
-<h3 align="center">Computer Science Student @ Oregon State University • Focus in Artificial Intelligence</h3>
+Hi, I'm Keona
 
-<img align="right" alt="Coding GIF" width="320" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp">
+I'm a Computer Science graduate from Oregon State University looking to start my career in software engineering.
 
-- 🔭 I’m currently completing my upper-division CS coursework in **systems, AI, and software engineering**
-- 🌱 I’m currently learning **Swift** and **Xcode**
-- 💻 I’m interested in **backend development, test automation, and AI-powered applications**
-- 📫 Reach me at **keonaabad2004@gmail.com**
+I like building projects, figuring out how things work, and using new tools to make development easier. Most of my experience has been with full-stack development, backend systems, cloud infrastructure, automation, and cybersecurity.
 
----
+Currently
+Building a game with a friend
+Working on personal projects
+Learning more about AI-assisted development
+Tools I've worked with
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/keonaabad" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Keona Abad LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100074589649611" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Keona Abad Facebook" height="30" width="40" />
-  </a>
-</p>
+Python JavaScript Node.js React SQL Git AWS Terraform Docker Linux
 
----
+Connect with me
 
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keonaabad&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keonaabad&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
+LinkedIn
